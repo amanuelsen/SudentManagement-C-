@@ -1,0 +1,3 @@
+F 1 henok 40 haha
+S 10 senai 45 software
+S 8 jalla 0 ellia
